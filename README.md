@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sahoo</h1>
 <h3 align="center">An Aspiring Software Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stranger-siv&label=Profile%20views&color=0e75b6&style=flat" alt="stranger-siv" /> </p>
-<p align="left"> <a href="https://twitter.com/sivram21" target="blank"><img src="https://img.shields.io/twitter/follow/sivram21?logo=twitter&style=for-the-badge" alt="sivram21" /></a> </p>
-
 - 🔭 I’m currently working on some Minor Projects
 
 - 🌱 I’m currently learning **MERN Stack**
