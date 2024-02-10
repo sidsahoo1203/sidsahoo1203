@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Siddharth736364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sivram21" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddharth-sahoo-527b601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_stranger_021_" height="30" width="40" /></a>
+<a href="https://twitter.com/Siddharth736364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddharth736364" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddharth-sahoo-527b601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="siddharth-sahoo-527b601ba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
