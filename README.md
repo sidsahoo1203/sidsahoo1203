@@ -84,10 +84,10 @@
 ### 🚀 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsahoo&show_icons=true&theme=radical&hide=contribs&include_all_commits=true&count_private=true&hide_title=true" alt="Siddharth's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsahoo&show_icons=true&theme=radical" alt="Siddharth's GitHub stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsahoo&layout=compact&theme=radical&langs_count=4&hide=php" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsahoo&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
