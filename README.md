@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sahoo</h1>
-<h3 align="center">An Aspiring Software Developer </h3>
+<h3 align="center">Frontend Developer </h3>
 
-- 🔭 I’m currently working on some Minor Projects
+- 🔭 I’m currently working on some personal Projects. 
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **sidsahoo2003@gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Siddharth736364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddharth736364" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddharth-sahoo-527b601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="siddharth-sahoo-527b601ba" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/siddharth-sahoo-527b601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="siddharth-sahoo-527b601ba" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
