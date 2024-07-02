@@ -23,6 +23,11 @@
 - 💬 Always up for a chat about **HTML, CSS, JavaScript**, and more.
 - 📫 Reach out to me at **sidsahoo2003@gmail.com**.
 - ⚡ Fun fact: I’m passionately in love with the process of creating!
+- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/siddharth-sahoo-527b601ba/) my linkedin profile.
+- 📝 Check out my [blog](https://siddharthsahoo.hashnode.dev) for more insights into my journey as a developer.
+- 📝 Check out my [portfolio](https://siddharthsahoo.netlify.app) to see some of my work.
+- 📝 Check out my [resume](https://siddharthsahoo.netlify.ap/resume) to learn more about my skills and experience.
+
 
 ---
 
