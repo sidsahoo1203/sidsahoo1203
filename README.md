@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm <span style="color: #3b82f6;">Siddharth Sahoo</span> 👋</h1>
 <h3 align="center">Passionate Frontend Developer | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Building+beautiful+web+experiences;Lover+of+clean+and+elegant+code" alt="Typing SVG">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/siddharthsahoo?label=Follow%20me&style=social" alt="GitHub Followers">
