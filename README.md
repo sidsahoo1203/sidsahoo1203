@@ -83,23 +83,25 @@
 
 ---
 
+
+
 ### 🚀 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsahoo&show_icons=true&theme=radical" alt="Siddharth's GitHub stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsahoo&layout=compact&theme=radical" alt="Top Languages">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthsahoo&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsahoo&theme=radical" alt="Siddharth's GitHub Streak">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsahoo&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsahoo&theme=radical)
+
+---
+
+### 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
 ### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddharthsahoo&theme=radical&no-frame=true&column=7" alt="GitHub Trophies">
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddharthsahoo&theme=radical&no-frame=true&column=7)
