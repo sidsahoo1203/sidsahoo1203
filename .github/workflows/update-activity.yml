@@ -3,7 +3,7 @@ name: Update README with Recent Activity
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
@@ -12,12 +12,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README with GitHub Activity
+      - name: Fetch recent activity
         uses: Readme-Workflows/recent-activity@v2.5.0
         with:
           COMMIT_MSG: "Updated GitHub activity"
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: siddharthsahoo
+          USERNAME: sidsahoo1203
 
       - name: Commit and push changes
         run: |
