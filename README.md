@@ -8,7 +8,7 @@ I am a passionate and enthusiastic fresher in Full-End Development, eager to bui
 
 ## 🌐 Connect with Me
 
-- 🌍 **Portfolio:** [siddd.super.site](https://siddd.super.site/)
+- 🌍 **Portfolio:** [siddd](https://self.so/siddharth-sahoo-1203)
 - 💼 **LinkedIn:** [linkedin.com/in/siddharth-sahoo-527b601ba](https://www.linkedin.com/in/siddharth-sahoo-527b601ba/)
 - 🐦 **Twitter/X:** [@Siddharth736364](https://x.com/Siddharth736364)
 - 💻 **GitHub:** [github.com/sidsahoo1203](https://github.com/sidsahoo1203)
