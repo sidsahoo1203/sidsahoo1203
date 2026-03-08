@@ -18,36 +18,45 @@
 
 ### 🎨 About Me
 
-I am a results-driven **Full-Stack Developer** specializing in the **MERN stack**. I thrive on creating seamless user experiences and robust back-end architectures. With a strong foundation in modern web technologies, I love turning complex problems into elegant, functional solutions.
+I am a results-driven **Full-Stack Developer** specializing in the **MERN stack**, committed to building high-performance, scalable, and user-centric web applications. My journey in software development is fueled by a profound curiosity for how technology can bridge the gap between complex business logic and intuitive digital experiences.
 
-- 🌱 Currently exploring **Next.js & Cloud Computing**
-- 🤝 Open for **collaboration on innovative web projects**
-- ⚡ Fun fact: I'm a quick learner and a massive advocate for clean code!
+As an aspiring engineer, I don't just write code; I architect solutions. I believe that every line of code should serve a purpose—whether it's optimizing a database query for faster response times or crafting a responsive UI that adapts flawlessly across all devices.
+
+- 🌱 **Continuous Learning:** Currently deepening my expertise in **Next.js**, **TypeScript**, and **Cloud Infrastructure** (AWS/Azure).
+- 🤝 **Collaboration:** I value team synergy and have a track record of contributing to collaborative projects where communication and version control are key.
+- ⚡ **Efficiency:** I advocate for **Clean Code (SOLID principles)** and **Test-Driven Development** to ensure long-term maintainability.
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🏛️ Development Philosophy & Theory
+
+My approach to software engineering is grounded in several core theoretical pillars:
+
+#### 1. The Power of the MERN Stack
+I specialize in the MERN (MongoDB, Express, React, Node) stack because of its **isomorphic nature**. Using JavaScript across the entire stack allows for faster context switching, unified data models, and a highly efficient development lifecycle. I focus on:
+- **Scalable Backends:** Building RESTful APIs with Node.js that handle asynchronous operations efficiently using the event loop.
+- **Dynamic Frontends:** Leveraging React’s component-based architecture and Virtual DOM to build reactive, high-performance user interfaces.
+
+#### 2. Clean Architecture & Scalability
+I believe in separating concerns. By keeping business logic independent of the UI and database layers, I ensure that the application remains flexible. My focus is on writing **modular, reusable components** and service-oriented backend logic.
+
+#### 3. UX/UI Integration
+Performance is a feature. I prioritize web performance metrics (Core Web Vitals), ensuring that my applications are not only visually stunning but also lightweight and accessible (A11y).
+
+---
+
+### �️ My Tech Toolbox
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| Area | Technologies | Methodologies |
+| :--- | :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3 | Responsive Design, State Management (Redux/Context API) |
+| **Backend** | Node.js, Express.js, REST APIs | MVC Architecture, JWT Authentication, JSON Serialization |
+| **Database** | MongoDB (NoSQL), Mongoose | Schema Design, Data Indexing, CRUD Operations |
+| **Workflow** | Git, GitHub, Postman, Vercel/Render | Agile, Version Control, API Documentation |
 
 </div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidsahoo1203&show_icons=true&theme=dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Siddharth's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidsahoo1203&theme=dark&background=1F222E&stroke=00000000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</p>
 
 ---
 
